@@ -4,7 +4,7 @@ environment {
 
 registry = "faiththough/carspring"
 
-        registryCredentials = "dockerhub_id"
+        registryCredentials = "12875cab-5653-40f1-a132-7fb3286d3ae6"
 
         dockerImage = ""
 
